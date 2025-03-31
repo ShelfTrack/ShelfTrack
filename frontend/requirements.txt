@@ -1,5 +1,5 @@
 PyQt6==6.6.1
-requests==2.31.0
+requests==2.32.2
 python-dotenv>=0.21.0
 pillow>=9.3.0
 qt-material>=2.14 
